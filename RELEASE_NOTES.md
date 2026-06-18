@@ -1,5 +1,47 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.0.4](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.4)
+
+June 18, 2026
+
+### Additions
+
+- `browsers.firefox_android.releases.155` ([#29863](https://github.com/mdn/browser-compat-data/pull/29863))
+- `browsers.firefox.releases.155` ([#29863](https://github.com/mdn/browser-compat-data/pull/29863))
+- `webextensions.api.proxy.onRequest.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.proxy.onRequest.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.runtime.getContexts.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.runtime.getDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.scripting.executeScript.InjectionResult.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.scripting.InjectionTarget.documentIds` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.tabs.connect.connectInfo.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.tabs.sendMessage.options.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onAuthRequired.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onAuthRequired.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onBeforeRedirect.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onBeforeRedirect.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onBeforeRequest.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onBeforeRequest.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onBeforeSendHeaders.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onBeforeSendHeaders.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onCompleted.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onCompleted.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onErrorOccurred.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onErrorOccurred.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onHeadersReceived.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onHeadersReceived.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onResponseStarted.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onResponseStarted.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onSendHeaders.details.documentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+- `webextensions.api.webRequest.onSendHeaders.details.parentDocumentId` ([#29853](https://github.com/mdn/browser-compat-data/pull/29853))
+
+### Statistics
+
+- 3 contributors have changed 12 files with 543 additions and 40 deletions in 4 commits ([`next...v8.0.4`](https://github.com/mdn/browser-compat-data/compare/next...v8.0.4))
+- 19,829 total features
+- 1,254 total contributors
+- 5,689 total stargazers
+
 ## [v8.0.3](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.3)
 
 June 12, 2026
